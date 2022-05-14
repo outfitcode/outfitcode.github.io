@@ -1,8 +1,10 @@
-## Outfit Code S.r.l.s.
+## Software development... with style!
 
-- Mobile development
-- Events photography
-- Training and presentations
+...and much more:
+
+- mobile development
+- events photography
+- training and presentations
 
 ### Contact us
 <A HREF="mailto:&#111;&#117;&#116;&#102;&#105;&#116;&#099;&#111;&#100;&#101;&#115;&#114;&#108;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#111;&#117;&#116;&#102;&#105;&#116;&#099;&#111;&#100;&#101;&#115;&#114;&#108;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</A>
